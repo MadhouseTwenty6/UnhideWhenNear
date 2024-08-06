@@ -29,7 +29,7 @@ The application consists of an HTML page that displays an image with a mask that
 2. **Project Structure**
 
     Ensure the following files are in the project directory:
-    - `index.html` (the HTML file)
+    - `Index.html` (the HTML file)
     - `Style.css` (the CSS stylesheet)
     - `Script.js` (the JavaScript file)
     - `Censor.png` (the image to be masked)
@@ -37,7 +37,7 @@ The application consists of an HTML page that displays an image with a mask that
 
 3. **Run the Application**
 
-    Open the `index.html` file in a web browser to view and interact with the application.
+    Open the `Index.html` file in a web browser to view and interact with the application.
 
 ## Usage
 
@@ -47,7 +47,7 @@ The application consists of an HTML page that displays an image with a mask that
 
 ## Files
 
-- **`index.html`**: Contains the HTML structure and links to the CSS and JavaScript files.
+- **`Index.html`**: Contains the HTML structure and links to the CSS and JavaScript files.
 - **`Style.css`**: Defines the styles for the image, mask, and other elements.
 - **`Script.js`**: Contains the JavaScript code that handles the cursor movement and mask positioning.
 - **`Censor.png`**: The image that is blurred and masked.
@@ -55,7 +55,7 @@ The application consists of an HTML page that displays an image with a mask that
 
 ## Code Explanation
 
-- **HTML (`index.html`)**:
+- **HTML (`Index.html`)**:
   - Displays a blurred image with a mask overlay that reveals parts of the image based on cursor position.
 
 - **CSS (`Style.css`)**:
